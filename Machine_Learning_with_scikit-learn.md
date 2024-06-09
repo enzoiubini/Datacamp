@@ -1,7 +1,3 @@
---- 
-layout: post
-title: Machine Learning with scikit-learn
----
 
 ## Classification
 
